@@ -1,2 +1,2 @@
 # genome_prep
-Processing whole genomes for analysis
+Prepping whole genome data for analysis (after calling snps).
